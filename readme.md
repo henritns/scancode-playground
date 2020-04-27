@@ -2,12 +2,12 @@
 
 Can be used like this for example:
 
-- create a new virtualenv
+- create a new virtualenv (python 3.6 should work)
 - install scancode-toolkit by pip
 - drop `NAME-1.2.3.tar.gz` package to packages folder
 - set policy by tweaking `policy.yml` (optional)
 - `./run.sh NAME-1.2.3` or `./runwithpolicy.sh NAME-1.2.3`
-- if succeeds, look at output
+- if succeeds, look at `output/`
 
 See the [manual](https://scancode-toolkit.readthedocs.io/en/latest/index.html).
 
