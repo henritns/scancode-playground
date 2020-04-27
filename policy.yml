@@ -1,0 +1,7 @@
+license_policies:
+  - license_key: mit
+    label: Approved License
+    icon: icon-ok-circle
+  - license_key: json
+    label: Prohibited License
+    icon: icon-warning-sign

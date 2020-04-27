@@ -1,0 +1,2722 @@
+# Document Information
+
+SPDXVersion: SPDX-2.1
+DataLicense: CC0-1.0
+SPDXID: SPDXRef-DOCUMENT
+DocumentComment: <text>Generated with ScanCode and provided on an "AS IS" BASIS, WITHOUT WARRANTIES
+OR CONDITIONS OF ANY KIND, either express or implied. No content created from
+ScanCode should be considered or used as legal advice. Consult an Attorney
+for any legal advice.
+ScanCode is a free software code scanning tool from nexB Inc. and others.
+Visit https://github.com/nexB/scancode-toolkit/ for support and download.</text>
+
+
+# Creation Info
+
+Creator: Tool: scancode-toolkit 3.1.1
+Created: 2020-04-27T12:12:28Z
+
+
+# Package
+
+PackageName: rapidjson-1.1.0.tar.gz-extract
+PackageDownloadLocation: NOASSERTION
+PackageVerificationCode: d2f875ecb3207a207ad04bbf87a4a7373e819779
+PackageLicenseDeclared: NOASSERTION
+PackageLicenseConcluded: NOASSERTION
+PackageLicenseInfoFromFiles: BSD-3-Clause
+PackageLicenseInfoFromFiles: ISC
+PackageLicenseInfoFromFiles: JSON
+PackageLicenseInfoFromFiles: MIT
+PackageLicenseInfoFromFiles: LicenseRef-scancode-other-permissive
+PackageCopyrightText: <text>(c) ParseErrorCode error TestString
+Copyright (c) 2002 JSON.org
+Copyright (c) 2006-2013 Alexander Chemeris
+Copyright (c) 2008-2010 Bjoern Hoehrmann <bjoern@hoehrmann.de>
+Copyright (c) 2012 Julian Berman
+Copyright (c) 2015 THL A29 Limited
+Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo
+Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+Copyright 2015
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/.gitmodules
+FileChecksum: SHA1: f832a9a29e386b0e3120dd1a9695a33c9a55d5f5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/.travis.yml
+FileChecksum: SHA1: 562f072eb2b7ea17b198b52b7455e342c6e8e8bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/CHANGELOG.md
+FileChecksum: SHA1: 347704160c4ebef850c3b8ccbf619ce85d2015f3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/CMakeLists.txt
+FileChecksum: SHA1: 61183c338c9b2392423335493c24ece3e81eb552
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/CMakeModules/FindGTestSrc.cmake
+FileChecksum: SHA1: f82c422d5d8390fba2016971cb28db341bba5cd9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/RapidJSON.pc.in
+FileChecksum: SHA1: 0b319a2a45db09b08b06c3780578dbf95835ac40
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/RapidJSONConfig.cmake.in
+FileChecksum: SHA1: 25f66dd815f4ba1d4e1b1ff1173b141958beeea3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/RapidJSONConfigVersion.cmake.in
+FileChecksum: SHA1: 14ac7363b6f3ca11c97d96b79be03a8857c7f79c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/appveyor.yml
+FileChecksum: SHA1: 2c4885eeab2cab852a9ccc37d9a5baebc3189ed8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/data/glossary.json
+FileChecksum: SHA1: 9e97e199bfd5804fd8a870bcf4c9308f1e323cf8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/data/menu.json
+FileChecksum: SHA1: c419de86dd89c008fc55941a14351065369aa77c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/data/readme.txt
+FileChecksum: SHA1: e33de69928ef2fd5fe5c73a6781e4d6e70732496
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/data/sample.json
+FileChecksum: SHA1: c2f367d3f8e03bb972d5a172a3b94aa024776922
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/data/webapp.json
+FileChecksum: SHA1: 30674a85c2af6878b72c44b1d952ebc4a645202f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/data/widget.json
+FileChecksum: SHA1: 8ed087ef6327275294ffc33fc44f72c56c9a2b2a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/draft-04/schema
+FileChecksum: SHA1: 9e8c49d51e4128cfd685841a9185395c33675e85
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf16be.json
+FileChecksum: SHA1: 36c6e8e4101d34ada273c8a6c6566081266dff69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf16bebom.json
+FileChecksum: SHA1: dd34abe5f19660df44e8348fe863a8eb0246ca83
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf16le.json
+FileChecksum: SHA1: 9782f466bf4f13e8e9a293dfeb4337344b0c2e07
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf16lebom.json
+FileChecksum: SHA1: 2e16f518e4ccbe122ac3b51bdc1a686648be3242
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf32be.json
+FileChecksum: SHA1: 75b6606ecfdeb13cd22567a6bf150fc720bedc4b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf32bebom.json
+FileChecksum: SHA1: a438f995ed80ffe34c500b22ab7984266590dd8e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf32le.json
+FileChecksum: SHA1: 4c3ab5e191af338f15899b7f3d90397bb95f3962
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf32lebom.json
+FileChecksum: SHA1: 321647e67f1bb8e555d3ac7bb860da8fc79b2a5c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf8.json
+FileChecksum: SHA1: 8b4d60eb17978b9bf632c3cae9824aca8f248d4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/encodings/utf8bom.json
+FileChecksum: SHA1: bc2236a44ddae853d74318d19eec2635991c0046
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail1.json
+FileChecksum: SHA1: 0b0262946e5245eef3b5481c90a13b294967e6b7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail10.json
+FileChecksum: SHA1: 679a71a2e28bde7d65e74971f55b4eeaa43555de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail11.json
+FileChecksum: SHA1: 43f3f4b8cebe2bafbd221b4285059228358f4b70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail12.json
+FileChecksum: SHA1: 7b6e707f33baa415151a6d70cc0a688dd6902719
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail13.json
+FileChecksum: SHA1: accf6292f64ffde5056887aace56c219b4a1f15c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail14.json
+FileChecksum: SHA1: afec9f495586dfa2481c3b49bc6d99e2499ff3b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail15.json
+FileChecksum: SHA1: 49c2425a7696be608318caee18065c1b8e14520c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail16.json
+FileChecksum: SHA1: 72fb4cbc8ec96b9f52eb105bc6eca271866b42aa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail17.json
+FileChecksum: SHA1: 3c8d5e81e3b6278e328b4d06dfb616292e497adc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail18.json
+FileChecksum: SHA1: e0c632b02b243872d46819dd777bc310708bd55f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail19.json
+FileChecksum: SHA1: e1a097a7456e1c4557b9e16bc8ceb1f3457361ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail2.json
+FileChecksum: SHA1: 19f3b6327c01cda200f1113631fae30b9e21cd74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail20.json
+FileChecksum: SHA1: 53b8a7f2396711811d8aecde828168924e21e7b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail21.json
+FileChecksum: SHA1: 4286da59fe0e3fd41f1d3e126a93b21e108dcdc8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail22.json
+FileChecksum: SHA1: d8715038d579ab570b2d5051a7c7a9d7d7651b98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail23.json
+FileChecksum: SHA1: 80716da97473e0c15671fe9904589427fa0e48e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail24.json
+FileChecksum: SHA1: 7b2952e86e777300b985c2bcb13f6864ee64c74e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail25.json
+FileChecksum: SHA1: 3e99ef7619db6a91c5095825f46e4d0b362745ca
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail26.json
+FileChecksum: SHA1: 0a1a2796e3db4f4f2acb05f7d5d415212207a403
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail27.json
+FileChecksum: SHA1: 3b673cb808d42a44a3128150e41005f1332b8294
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail28.json
+FileChecksum: SHA1: 64f46767e1f77127334716f2de8be4443ae90c6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail29.json
+FileChecksum: SHA1: 771a1b4f77d751080bb9c653ef6e9b622908b0ec
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail3.json
+FileChecksum: SHA1: 663952d3c06bd67449d7c9a0375adaab1ea384f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail30.json
+FileChecksum: SHA1: aeee5db1207a3b3c5e0176bbfaab4c3a7bcbd652
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail31.json
+FileChecksum: SHA1: eca7e126cc9c9796bc8fc8f23ec1b43534e6b78b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail32.json
+FileChecksum: SHA1: 7438ec5e56d578d9172d48e477763d25bc9d8dd3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail33.json
+FileChecksum: SHA1: 096a91815ab5830e13e4f733fc5ea4ea52c56c1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail4.json
+FileChecksum: SHA1: 79963e569b1a98866c84ccb4a50ab28649e24e67
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail5.json
+FileChecksum: SHA1: 99d41efd61b097bedd707d3f3245665d3aa724fa
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail6.json
+FileChecksum: SHA1: b496d81dcc2c11af1dd8f6dd37c06f43995a7f92
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail7.json
+FileChecksum: SHA1: 195f52e867d83ea304574c86556b486e45ad8f31
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail8.json
+FileChecksum: SHA1: fd72cd0e95adc278fd95b421bd79160d99aa3aea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/fail9.json
+FileChecksum: SHA1: ea46b78734d92bc2b476e8a1a20b1024279d95af
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/pass1.json
+FileChecksum: SHA1: 45ba3a40ed8e1b4a4049921e39983e5037bb122b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/pass2.json
+FileChecksum: SHA1: 354f78b3b4d0fe3ce01e06af68c7a21083146c98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/pass3.json
+FileChecksum: SHA1: 3e8bacbb5365e71e13dd2d81b913e83de718b1df
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonchecker/readme.txt
+FileChecksum: SHA1: cefbd183b333bc8838f420402ea1eccb0cd0dbdd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/.travis.yml
+FileChecksum: SHA1: d8d5771a554fb7fe15bd79fb149cdbc27f3bcbc9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/LICENSE
+FileChecksum: SHA1: 6808b97edf6d2c189571af702b95916168ff7db8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2012 Julian Berman
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/README.md
+FileChecksum: SHA1: 6443ef3ebce8ede3f238567520fa80e3957bb889
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/bin/jsonschema_suite
+FileChecksum: SHA1: 6b28261e5123cd821c61812b57d887beaef30516
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/remotes/.DS_Store
+FileChecksum: SHA1: 4c177d4bd94cfebcf9bb43349450404b940d38a6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/remotes/folder/folderInteger.json
+FileChecksum: SHA1: 8f6fb865eb29957c5bfb7421004b2e3167642f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/remotes/integer.json
+FileChecksum: SHA1: 8f6fb865eb29957c5bfb7421004b2e3167642f90
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/remotes/subSchemas.json
+FileChecksum: SHA1: 37c96fe4e2078670eba4b9b8a7bd7dcad1fd6563
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/.DS_Store
+FileChecksum: SHA1: e0c881177048ff84f42e6debec55ed49ebf9a418
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/additionalItems.json
+FileChecksum: SHA1: 27d59858bfa22eabaa96f2ceb80c50e5f45edcdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/additionalProperties.json
+FileChecksum: SHA1: 34478026a586b1ff8b96dbe54efdf7515099da7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/default.json
+FileChecksum: SHA1: 17c051cc94a9fb40ad627b04a41d7dce9150e3b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/dependencies.json
+FileChecksum: SHA1: b64e0240af6ccacfeee6359d31ad9eeb73061ab2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/disallow.json
+FileChecksum: SHA1: 0338efb887db1499031a573dbd4bdf8e04381e44
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/divisibleBy.json
+FileChecksum: SHA1: f93261c3b99ed5c49d6bbd0ba5622d6c5f62d614
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/enum.json
+FileChecksum: SHA1: 00ef7a2317fb93d40ea8bfd17be00cef250abeea
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/extends.json
+FileChecksum: SHA1: b74a86f27d00aa8b618e4a00770d0d23e95a0b57
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/items.json
+FileChecksum: SHA1: 873828cf8ad5d2701022650e99367cb0a89624b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/maxItems.json
+FileChecksum: SHA1: 580cdb7c89cd07b45f3fdadb2279bb13108b79b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/maxLength.json
+FileChecksum: SHA1: a7aff353343095ecb7e7213d041ba0e2885c8d28
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/maximum.json
+FileChecksum: SHA1: c205edb4c5bd171c9e1f4955f5cc3b94ca78cb0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/minItems.json
+FileChecksum: SHA1: 176fedc074768c6ec5c7ceb979f23a6a4bd0be58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/minLength.json
+FileChecksum: SHA1: f092e02fe6648fbd1972145941739a0951e7e548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/minimum.json
+FileChecksum: SHA1: 1a849968c80db05a9ad0a92481edd93dee567804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/optional/bignum.json
+FileChecksum: SHA1: 32b70fb2c2156c979702eec5c18a86c1fe6d0bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/optional/format.json
+FileChecksum: SHA1: 33469d844868d73c1e8cea327dfb610693e9ab3d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/optional/jsregex.json
+FileChecksum: SHA1: 489105099db925ea513fdf20050c6389b868f4c5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/optional/zeroTerminatedFloats.json
+FileChecksum: SHA1: dac50eb552aa8bb46fdc594283b6b8aea7fb626c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/pattern.json
+FileChecksum: SHA1: 30996b58748cb366e0eb54bc5252ba9a3d353e19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/patternProperties.json
+FileChecksum: SHA1: e0080348b213f1d004af7d5c43c2f3f29375224b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/properties.json
+FileChecksum: SHA1: 1aacdf890a9b844c7275f6ad2f3acc2f9100219c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/ref.json
+FileChecksum: SHA1: 856bc81bed88be8ebd5e1f8398d48edf4cc61fb7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/refRemote.json
+FileChecksum: SHA1: ef0c43623cad9a3ceb7b407272062ca55c1c9c7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/required.json
+FileChecksum: SHA1: 6cd95ad810f5ee5f90bc22c72ed2f4260b036ee3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/type.json
+FileChecksum: SHA1: fe8a00ae7942333ea2099c9da0f9efee6511dd71
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft3/uniqueItems.json
+FileChecksum: SHA1: 8c9909ffd2abf8f625f81c18a43c789efa369e34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/.DS_Store
+FileChecksum: SHA1: 44ece22723f2c60dd252475305596da93bdda46c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/additionalItems.json
+FileChecksum: SHA1: 75644b309367675ce21d8b35b9baee049a58e159
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/additionalProperties.json
+FileChecksum: SHA1: 34478026a586b1ff8b96dbe54efdf7515099da7d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/allOf.json
+FileChecksum: SHA1: e98aea1d36d932870561f0c32c32fc5858f251f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/anyOf.json
+FileChecksum: SHA1: 8081feb305d328878b37a7cc3b296eb5544c239d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/default.json
+FileChecksum: SHA1: 17c051cc94a9fb40ad627b04a41d7dce9150e3b5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/definitions.json
+FileChecksum: SHA1: 0963ac4f014a0faf6ad37554c9af03f63dad9b02
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/dependencies.json
+FileChecksum: SHA1: d239f1bb8cfffb7487335c73e02c6cda10d4ef5b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/enum.json
+FileChecksum: SHA1: 4b96cc24245950f9fad0916113a5056d9f51c2e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/items.json
+FileChecksum: SHA1: 873828cf8ad5d2701022650e99367cb0a89624b0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/maxItems.json
+FileChecksum: SHA1: 580cdb7c89cd07b45f3fdadb2279bb13108b79b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/maxLength.json
+FileChecksum: SHA1: a7de803a65a643219a2fd9391f0e019b5dd23bcb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/maxProperties.json
+FileChecksum: SHA1: 1703d6ef976a74eae8ea6cd21c131853c6ca5f6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/maximum.json
+FileChecksum: SHA1: c205edb4c5bd171c9e1f4955f5cc3b94ca78cb0c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/minItems.json
+FileChecksum: SHA1: 176fedc074768c6ec5c7ceb979f23a6a4bd0be58
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/minLength.json
+FileChecksum: SHA1: f092e02fe6648fbd1972145941739a0951e7e548
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/minProperties.json
+FileChecksum: SHA1: b61b2829899d8a5f6bbc8bde2b694b69bb35d38a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/minimum.json
+FileChecksum: SHA1: 1a849968c80db05a9ad0a92481edd93dee567804
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/multipleOf.json
+FileChecksum: SHA1: 9e70c593b1cc3a3572a0d389b5b7a171bf292ddd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/not.json
+FileChecksum: SHA1: 5b9567e8409e28b256f3704ca83447f0d0abb707
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/oneOf.json
+FileChecksum: SHA1: 6772cacb066e5458a7fca9a47cfee27b56110d6b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/optional/bignum.json
+FileChecksum: SHA1: 32b70fb2c2156c979702eec5c18a86c1fe6d0bd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/optional/format.json
+FileChecksum: SHA1: 005c3491cda509d6f55d0cd1c3660600971e0cb4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/optional/zeroTerminatedFloats.json
+FileChecksum: SHA1: dac50eb552aa8bb46fdc594283b6b8aea7fb626c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/pattern.json
+FileChecksum: SHA1: 30996b58748cb366e0eb54bc5252ba9a3d353e19
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/patternProperties.json
+FileChecksum: SHA1: e0080348b213f1d004af7d5c43c2f3f29375224b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/properties.json
+FileChecksum: SHA1: 1aacdf890a9b844c7275f6ad2f3acc2f9100219c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/ref.json
+FileChecksum: SHA1: f56752f66a1dadeb4664934b237d09f6344fb874
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/refRemote.json
+FileChecksum: SHA1: ef0c43623cad9a3ceb7b407272062ca55c1c9c7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/required.json
+FileChecksum: SHA1: 35b980ec46ea56c7c7c38afc63c84a863d4b3132
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/type.json
+FileChecksum: SHA1: fef0b779cc317c2c2284c18653cd417840c24a9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tests/draft4/uniqueItems.json
+FileChecksum: SHA1: 8c9909ffd2abf8f625f81c18a43c789efa369e34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/jsonschema/tox.ini
+FileChecksum: SHA1: 763f153d2d58dec98346ab6990baa5d5dffad78b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/booleans.json
+FileChecksum: SHA1: 069140df4427e72d6bc80b66636256acf28def4e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/floats.json
+FileChecksum: SHA1: 18fae3a6833bd53fe78c94418bd371e7463d95e0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/guids.json
+FileChecksum: SHA1: b1cf664715940e47c5cf9bd6dcf1b8db19e6809c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/integers.json
+FileChecksum: SHA1: 197dcea796dbc117f44c756d1c4942216e282353
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/mixed.json
+FileChecksum: SHA1: edd12070694807bda14715a77529732f4a5d7328
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/nulls.json
+FileChecksum: SHA1: 09ddacb6dd0c2ae03efd07d837fd5286e767d8b4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/paragraphs.json
+FileChecksum: SHA1: 44ee8b28d736b4d416126662747185fd6fa240fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/bin/types/readme.txt
+FileChecksum: SHA1: ff212d3719c04e9f3b64c4779d8cb039bf37c828
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/CMakeLists.txt
+FileChecksum: SHA1: 80fe3fd08ae0e526b98e2045a3c23379becf1989
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/Doxyfile.in
+FileChecksum: SHA1: c4aaf89d131eccb139178e76bf802149e33f3b49
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/Doxyfile.zh-cn.in
+FileChecksum: SHA1: 4876af5ab7c296dc0c295e572ffe2e5fa1b00efc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/architecture.dot
+FileChecksum: SHA1: 90e1a9352e42776cbdddf6e1c54e50dfedf4132b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/architecture.png
+FileChecksum: SHA1: 8614be9110286a2b36167e3e007b79167ca06666
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/insituparsing.dot
+FileChecksum: SHA1: 1b276a853d8f8bbad368dd6be3f1f808df1021b6
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/insituparsing.png
+FileChecksum: SHA1: d84867cefc785b025619b71108d9550088f2ad27
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/iterative-parser-states-diagram.dot
+FileChecksum: SHA1: a9a26a574343a0821b1811dbb60e2b5ca7937e1b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/iterative-parser-states-diagram.png
+FileChecksum: SHA1: 6208824eff54be783cfecb6e4633f18e59d7cad5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/makefile
+FileChecksum: SHA1: 6917363f48e350894c379f4275b84523ecb2486f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/move1.dot
+FileChecksum: SHA1: 399659951dbb2b210222eeeddafac4de7995b0d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/move1.png
+FileChecksum: SHA1: 261efad301458ec1a2fb0e946c8d76539161bc69
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/move2.dot
+FileChecksum: SHA1: ba32340720b3d8c29d2d910641fce89f3347b805
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/move2.png
+FileChecksum: SHA1: 206a2df5e3247180573496b736395d2b7b4ab99a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/move3.dot
+FileChecksum: SHA1: 16bd7486e28f56febb623bb768e727b2d86133ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/move3.png
+FileChecksum: SHA1: 70bd83ca3786e5122db68b91c6e3328aca5f3d98
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/normalparsing.dot
+FileChecksum: SHA1: 413a67b7bcf8e1e2ab970625fbf031af1af34806
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/normalparsing.png
+FileChecksum: SHA1: 9f4c953435a8bb8b51b9f7e58735bdfde7ebe9bd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/simpledom.dot
+FileChecksum: SHA1: 7077d91a7c83cecd013057b3690a91c827cd1a5f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/simpledom.png
+FileChecksum: SHA1: b47c6b8ff830528e569788bf9f02bf405b2165d9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/tutorial.dot
+FileChecksum: SHA1: ecdadab0d479ec4e074618b63ee5e62f8729d7eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/tutorial.png
+FileChecksum: SHA1: db34c8771e1ea743465d3fbb53b6a113945379a4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/utilityclass.dot
+FileChecksum: SHA1: 694605ffce03003a33fe31426e3ac52707c52e3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/diagram/utilityclass.png
+FileChecksum: SHA1: 0a5356ee3b67eb3615aa94acafab14b4fd3c8ef3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/dom.md
+FileChecksum: SHA1: 93fc569c75f53aba939d6f416b1ca920ee2d59e8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/dom.zh-cn.md
+FileChecksum: SHA1: bcd51d28caf32efe71e7de2623a2c1e6901d6bdc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/encoding.md
+FileChecksum: SHA1: c839f3a0b43e5ca9e388850c78550931db6a1851
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/encoding.zh-cn.md
+FileChecksum: SHA1: c81b92ebc7176bec7cbf8190146dc473e249a5d0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/faq.md
+FileChecksum: SHA1: e7d213d26269b6877f2a80a8d03d91559ae7ab75
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/faq.zh-cn.md
+FileChecksum: SHA1: 92842b2d34d18b9ef381fe6a17544c560a5c8ecd
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/features.md
+FileChecksum: SHA1: c5823cb1ae4e0ae887dd3ba04cdcd9c520186af9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/features.zh-cn.md
+FileChecksum: SHA1: 61d57d15fd2a9e075f3b0d1e2d3a6fe6db535cf7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/internals.md
+FileChecksum: SHA1: 430fcfde2d2f4df69f2b384ef6f8e49a362e5c74
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/logo/rapidjson.png
+FileChecksum: SHA1: de3ec327b72024f4a11db4a51b4ffb0cfe71a37f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/logo/rapidjson.svg
+FileChecksum: SHA1: 84b74a0052bf28b7aa58ef2c4a0a2c88a7790e3f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/misc/DoxygenLayout.xml
+FileChecksum: SHA1: a214ad538b49b99208b6a142ad75858ebd9c4e70
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/misc/doxygenextra.css
+FileChecksum: SHA1: c4c27787da5a1129c294d2c80674745402159219
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/misc/footer.html
+FileChecksum: SHA1: bdf730033ae0c2cbec5623e593f2931eb6b9ceab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/misc/header.html
+FileChecksum: SHA1: f74bed3f7271c49687e39fcedaf2fd83b682d790
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/npm.md
+FileChecksum: SHA1: d89033bfc16bb67e7ae68ee54aea8dc9d2d340a8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/performance.md
+FileChecksum: SHA1: 65f46a499ba1ba49bd375466d42852f8e44011c7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/performance.zh-cn.md
+FileChecksum: SHA1: caa519f50d95b259970236ff8f647d0f7f77ca95
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/pointer.md
+FileChecksum: SHA1: f9762a5d74cd1c6c79a34e721a743d141c8b650d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/pointer.zh-cn.md
+FileChecksum: SHA1: 5a21672ecec5cfa2bd8bd5ce57c2cb0c22608620
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/sax.md
+FileChecksum: SHA1: ce47c8fc16ae1ea40f95f5de6a49149dc7a41c38
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/sax.zh-cn.md
+FileChecksum: SHA1: 9fc53d44187a5eb20dcd38b2ae9a74ec29ba1e9f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/schema.md
+FileChecksum: SHA1: 7b23ef86ef85a2fc3fdb8d1ea8df062c047c4c62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/schema.zh-cn.md
+FileChecksum: SHA1: 598adeef920833a8938b5a8d2976c90180ec5949
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/stream.md
+FileChecksum: SHA1: 5f1d19fd7055ade98a33f64524dada8a758282f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/stream.zh-cn.md
+FileChecksum: SHA1: 66de54fb1d771bf5b31f25552e55b219487c2601
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/tutorial.md
+FileChecksum: SHA1: 38da5d387a992bbf150b24c3ac555ca1bec97da8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/doc/tutorial.zh-cn.md
+FileChecksum: SHA1: b74b00c755298ef9d0eadc934048fb4a13314e7a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/docker/debian/Dockerfile
+FileChecksum: SHA1: 048176a071646015b1d021a5a61dcdc0f7269d9e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/CMakeLists.txt
+FileChecksum: SHA1: f56030445dcb6c45908e9811fac06b5f6e70d56f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/capitalize/capitalize.cpp
+FileChecksum: SHA1: 5479052b30b56128920ed1dffd2942517b806f17
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/condense/condense.cpp
+FileChecksum: SHA1: 1aa1fcba1868e88816da205e3305521fe256e3d1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/filterkey/filterkey.cpp
+FileChecksum: SHA1: 36de271f15191dd333cd1e60356a09a8e30f3222
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/filterkeydom/filterkeydom.cpp
+FileChecksum: SHA1: 6e7080d35a96de6dbf569eef12f2cf4fd96ade2f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/jsonx/jsonx.cpp
+FileChecksum: SHA1: 4be8dd6c2f4c7f17e0cd972c8eee302e1a4a085e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/messagereader/messagereader.cpp
+FileChecksum: SHA1: b037fe55c3285c038b38a1b1460f9c723abc8e97
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/parsebyparts/parsebyparts.cpp
+FileChecksum: SHA1: c7dc411c18568c0833a927ba74041cb95cccfed1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/pretty/pretty.cpp
+FileChecksum: SHA1: 4efe9c4a852cbc676605ac8fc54c11b0a940d27c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/prettyauto/prettyauto.cpp
+FileChecksum: SHA1: 108fe49e228f721e14b69131dca1d0e64cab8dd7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/schemavalidator/schemavalidator.cpp
+FileChecksum: SHA1: 18e5a7008000705cd20c7a8a7b53e518d698ba6c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/serialize/serialize.cpp
+FileChecksum: SHA1: 35b828d5771ec063d185d8470d66c74e7a882791
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/simpledom/simpledom.cpp
+FileChecksum: SHA1: 9b5ecbb475597a90a1fdd646ee5d5e9425f7ca3a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/simplereader/simplereader.cpp
+FileChecksum: SHA1: 2b591af4edb0336b0edef82c70f5b00a4bcd68ae
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/simplewriter/simplewriter.cpp
+FileChecksum: SHA1: b43f2fde9d009ae09afa72a369149c68ae7b8f34
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/example/tutorial/tutorial.cpp
+FileChecksum: SHA1: e92f42e46329691147a119816bc16ba6c475caa7
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/allocators.h
+FileChecksum: SHA1: 368299d8024b3202345e6cdeaf79262d020e471c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/document.h
+FileChecksum: SHA1: 03da3a6684a705880b40b3e77a1da9a85a05a761
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/encodedstream.h
+FileChecksum: SHA1: 249cd0b952b9e1ec72f40111c06b045132778430
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/encodings.h
+FileChecksum: SHA1: 0528b4c7293bdf5c81bb62a58d64a403bdc763f1
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/error/en.h
+FileChecksum: SHA1: a7fa239cd28c0a8dd939afc9b0967bee2cc9a153
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/error/error.h
+FileChecksum: SHA1: d71b0c7e82b3893134a20cda7aa486110db4f5e3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/filereadstream.h
+FileChecksum: SHA1: 530301788a9b71dc0afcf34fab82221ccf2bdf2c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/filewritestream.h
+FileChecksum: SHA1: dd7147394dbd796af3f10ed1c715507f2677d5a2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/fwd.h
+FileChecksum: SHA1: 4ba3e77d34a169c73ad38b3b39971ab2a7bc5127
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/biginteger.h
+FileChecksum: SHA1: 726e70c1396035787a469682815ffdad694c2395
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/diyfp.h
+FileChecksum: SHA1: 626e62964cb8852cb053a8b1d2ee237b8915e01d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/dtoa.h
+FileChecksum: SHA1: 53ba1c587d8f17224cca68f95b325eab668eca7e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/ieee754.h
+FileChecksum: SHA1: c6a17091ed37859fc9e075ccb217a9b35225d2cb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/itoa.h
+FileChecksum: SHA1: 45ca0fc00693c2bf2f5db8bff4ebdb15fb89f103
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/meta.h
+FileChecksum: SHA1: 05658c5a51a6eb13d7afe45741d48e2b7b66d038
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/pow10.h
+FileChecksum: SHA1: 0a0f58823ace85a878ce7134b0347ba916fe6c39
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/regex.h
+FileChecksum: SHA1: 8648fc5c0d722a450a9a8aec67d16b8f7c67d8b9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/stack.h
+FileChecksum: SHA1: b83f7a1c131b6c6419356ea028d2533551baaceb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/strfunc.h
+FileChecksum: SHA1: 12ef8b30d251135e9117f75da9508037af9ac9e5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/strtod.h
+FileChecksum: SHA1: 8bd52b12dea29eb0601201bcad99ff64580f4099
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/internal/swap.h
+FileChecksum: SHA1: 22111c586ffcba0485a0a56c5e911493ac769031
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/istreamwrapper.h
+FileChecksum: SHA1: 59e9dbbebb7401c1f2a2340582430dd2540e8d14
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/memorybuffer.h
+FileChecksum: SHA1: 03677f78fd4e6e3a2ec2bad610f4a50643ada638
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/memorystream.h
+FileChecksum: SHA1: 1c1883ae1f8409d28c85e0f80c965744db7f2ee8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/msinttypes/inttypes.h
+FileChecksum: SHA1: a548e95689634296d9572a66915beb5c68f17fa3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text>Copyright (c) 2006-2013 Alexander Chemeris
+Copyright (c) 2015 THL A29 Limited
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/msinttypes/stdint.h
+FileChecksum: SHA1: 37d726564bf64842d814666d7c8da4f31d315ff0
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+FileCopyrightText: <text>Copyright (c) 2006-2013 Alexander Chemeris
+Copyright (c) 2015 THL A29 Limited
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/ostreamwrapper.h
+FileChecksum: SHA1: 6d474a37ad51068a37e05db21313c01a744923f4
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/pointer.h
+FileChecksum: SHA1: 1cd994aa93ba5847bbfd4134d917a07778b1415a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/prettywriter.h
+FileChecksum: SHA1: ba2f7c714759141e9264b870d6c1df42c666db62
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/rapidjson.h
+FileChecksum: SHA1: 9f6eb06ee28eb8c8297347fdf083975ace1ceedc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/reader.h
+FileChecksum: SHA1: 3b967872edcaac972451cae0070876510270916a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/schema.h
+FileChecksum: SHA1: 0126d2e7604d0a0df3a52880b00c484de9d0953b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/stream.h
+FileChecksum: SHA1: 0d505d7d3b44a1ac2c04319d6668b686dead2a63
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/stringbuffer.h
+FileChecksum: SHA1: 3a3e63e9172a072dc20c8cf1c479c7f423bf7953
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include/rapidjson/writer.h
+FileChecksum: SHA1: 822541cb8e53747e8aeb8a179257e988ab651e26
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/include_dirs.js
+FileChecksum: SHA1: da5a327d8b5a1c3ef4ee87ce225c501cd5a4ac24
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/library.json
+FileChecksum: SHA1: 4287d584d500bd4b5dff75ef4c36d71412564875
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/license.txt
+FileChecksum: SHA1: 47ab05791f28173ad2b82f25c2b5c7fc06252b4d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: BSD-3-Clause
+LicenseInfoInFile: JSON
+LicenseInfoInFile: JSON
+LicenseInfoInFile: JSON
+LicenseInfoInFile: MIT
+LicenseInfoInFile: MIT
+LicenseInfoInFile: LicenseRef-scancode-other-permissive
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+Copyright (c) 2006-2013 Alexander Chemeris
+Copyright (c) 2002 JSON.org
+Copyright (c) 2002 JSON.org
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/package.json
+FileChecksum: SHA1: b75a097a9ed4f494555630c7414fe47b20bc86de
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: ISC
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/rapidjson.autopkg
+FileChecksum: SHA1: 77d8eb4442efa198c40959dc0ab3fc49e832b559
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text>Copyright 2015
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/readme.md
+FileChecksum: SHA1: 96553ca56d42fb80e9ca8131a70982b0dd305e9b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/readme.zh-cn.md
+FileChecksum: SHA1: e9c7d54109f914a9157a284a77217729fa2223ad
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/CMakeLists.txt
+FileChecksum: SHA1: d830cb752e836cc05bd85fe19ed48c84971ae4ff
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/CMakeLists.txt
+FileChecksum: SHA1: fcc4dc2457f22a9252cf2f4f836ae49eef1780f9
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/misctest.cpp
+FileChecksum: SHA1: d5bbd5345815f5246a0d11e2fe55360f8bb1e753
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+Copyright (c) 2008-2010 Bjoern Hoehrmann <bjoern@hoehrmann.de>
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/perftest.cpp
+FileChecksum: SHA1: d7f5a7d2c52cfbead22d4fddc321ef73b7483948
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/perftest.h
+FileChecksum: SHA1: a8ae0534a8b3832591e9107d9fa98e48af548650
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/platformtest.cpp
+FileChecksum: SHA1: a351dbb95d997c8519e5c6e66035764631832cc5
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/rapidjsontest.cpp
+FileChecksum: SHA1: 0b24d93e97e1d2f753becfc6fb9e6e4f7acd27cc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/perftest/schematest.cpp
+FileChecksum: SHA1: cc671ae9d4cbe55418fe25c97be2c33b3e76d9eb
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/CMakeLists.txt
+FileChecksum: SHA1: 656d00093d22e073cca72cd8428557c45f82a32a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/allocatorstest.cpp
+FileChecksum: SHA1: 3a708f99b2471c8d06bdd1264e64ce20ccfb1e08
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/bigintegertest.cpp
+FileChecksum: SHA1: b99bc6559f2684d3c2b9447eeef0eb1a947c1953
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/documenttest.cpp
+FileChecksum: SHA1: a38d7ac20c2df702b4b0c46df53a7a05ef9c69f8
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/dtoatest.cpp
+FileChecksum: SHA1: 246ad2df4ecf76ae354fd8e937fdfe1fb4fb66c3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/encodedstreamtest.cpp
+FileChecksum: SHA1: fc6acb64acdd695244f69b79137ebfde7be4f73a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/encodingstest.cpp
+FileChecksum: SHA1: ebbe37aac11c24ee5884e357a08f30463c1a6b33
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+Copyright (c) 2008-2010 Bjoern Hoehrmann <bjoern@hoehrmann.de>
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/filestreamtest.cpp
+FileChecksum: SHA1: 3287f92b3372fb89c33c3f59b576d332dfb6e072
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/fwdtest.cpp
+FileChecksum: SHA1: 70fb43a7084ef64a0f89931fc73a5865a771e18e
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/istreamwrappertest.cpp
+FileChecksum: SHA1: d675e5d47bee008324deb28f2849d348fc9cb91b
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/itoatest.cpp
+FileChecksum: SHA1: 19dbf5474ce7306560739ff990f6ef70ac60828a
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/jsoncheckertest.cpp
+FileChecksum: SHA1: 2ecf1a5bad9f2c279db8df548c4416b3251a30a3
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/namespacetest.cpp
+FileChecksum: SHA1: 836d40bd7a6c68c23bab506254ae4069cdcc80f2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/ostreamwrappertest.cpp
+FileChecksum: SHA1: b3f23e2a1ec73349ee52e0732d86a4d0f12d530f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/pointertest.cpp
+FileChecksum: SHA1: ad6c770038a8759515ded27cdb02811d7cee955c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/prettywritertest.cpp
+FileChecksum: SHA1: e84945d5189b20aa3b234fe908b7282f0db17869
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/readertest.cpp
+FileChecksum: SHA1: a6b10b94361315ceb895394ec8177417e87c372c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+(c) ParseErrorCode error TestString
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/regextest.cpp
+FileChecksum: SHA1: 7e3316a8393d7f26377d5602d9b6105e36adb5fc
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/schematest.cpp
+FileChecksum: SHA1: d71cd1c800bb227c172182e5c2dbfaccbe4e472f
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/simdtest.cpp
+FileChecksum: SHA1: 07c9a1e00072f0bd3f8d888d1771af9919ce3d0d
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/strfunctest.cpp
+FileChecksum: SHA1: 6f0ee04e213196513a704ee7f7da5d0b31e7c195
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/stringbuffertest.cpp
+FileChecksum: SHA1: 4bf27a1ee200afe9b9db44fb8bf0e02f12245d77
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/strtodtest.cpp
+FileChecksum: SHA1: 1ae4ce7eceef235035bf9673b5db4a47cd42edac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/unittest.cpp
+FileChecksum: SHA1: b1b80569193ff84243639b4ac80429e5ae3292ac
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/unittest.h
+FileChecksum: SHA1: 2f58c157347e7869a600738008b569c63cc6e3c2
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/valuetest.cpp
+FileChecksum: SHA1: 17d26d5cb0fe2054fe6226b28398925de452faab
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/test/unittest/writertest.cpp
+FileChecksum: SHA1: 478172b5d3b9e07bdccefcc1c6074d2619b7830c
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: MIT
+FileCopyrightText: <text>Copyright (c) 2015 THL A29 Limited, a Tencent company, and Milo Yip
+</text>
+
+
+# File
+
+FileName: ./rapidjson-1.1.0.tar.gz-extract/rapidjson-1.1.0/travis-doxygen.sh
+FileChecksum: SHA1: 0cfe775391336af57afc61d0cc344f4b98da78ba
+LicenseConcluded: NOASSERTION
+LicenseInfoInFile: NONE
+FileCopyrightText: NONE
+
+
+# Extracted Licenses
+
+LicenseID: LicenseRef-scancode-other-permissive
+LicenseComment: <text>See details at https://github.com/nexB/scancode-toolkit/blob/develop/src/licensedcode/data/licenses/other-permissive.yml
+</text>
+ExtractedText: <text>binary is licensed under the MIT License.
+If you have downloaded a copy of the RapidJSON source code from Tencent, please note that RapidJSON source code is licensed under the MIT License, except for the third-party components listed below which are subject to different license terms.  Your integration of RapidJSON into your own projects may require compliance with the MIT License, as well as the other licenses applicable to the third-party components included within RapidJSON. To avoid the problematic JSON license in your own projects, it's sufficient to exclude the bin/jsonchecker/ directory, as it's the only code under the JSON license.
+A copy of the MIT License is included in this file.</text>
+
+
